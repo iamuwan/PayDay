@@ -1,0 +1,17 @@
+{
+  "name": "payday",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PayDay, a personal money tracker for macOS and Windows: paydays, bill-settle dates, spending buckets and a month-end recap.",
+  "license": "MIT",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build",
+    "build:universal": "tauri build --target universal-apple-darwin"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0"
+  },
+  "author": "Uwan Perera"
+}
