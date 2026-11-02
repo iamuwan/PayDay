@@ -221,14 +221,6 @@ To change the icon, swap `src-tauri/app-icon.png` for any 1024×1024 PNG and run
 
 ---
 
-## 🗺️ Ideas for later
-
-- [ ] Recurring entries (rent, Netflix and Spotify fill themselves in)
-- [ ] CSV import from bank statements
-- [ ] Sync between your computers through iCloud Drive or OneDrive
-- [ ] Quick-add from the menu bar (Mac) or system tray (Windows)
-- [ ] Phone companion
-
 Got something you'd use? Open an issue.
 
 ---
@@ -246,9 +238,9 @@ Found a bug? Open an issue with what you did, what you expected and a screenshot
 
 ## 📄 License
 
-[MIT](LICENSE) © 2026 Uwan Perera. Use it, fork it, sell a better version of it. Just keep the licence file.
+[MIT](LICENSE) © 2026 Uwan Perera. Use it, fork it. Just keep the licence file.
 
 <div align="center">
 <br>
-<sub>Made by Uwan Perera in Bahrain, for anyone who's ever wondered where the salary went.</sub>
+<sub>Made by Uwan Perera.</sub>
 </div>
